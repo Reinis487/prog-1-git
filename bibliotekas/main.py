@@ -27,6 +27,8 @@ print(secondShoes.getPrice())
 #Funkcija no extracode bibliotékas
 print(sh.functionOutsideClass())
 
+print("sveika pasaule")
+
 
 
 
